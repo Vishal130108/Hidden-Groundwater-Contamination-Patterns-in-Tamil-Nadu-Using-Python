@@ -109,6 +109,10 @@ Summarized key findings, explained the types of analysis, recommended monitoring
 
 [View the Python Analysis Notebook](Tamil_Nadu_Groundwater_Analysis.ipynb)
 
+## Project Documentation
+
+[View Complete Project Report](Documentation/Tamil_Nadu_Groundwater_Complete_Concise_Report.docx)
+
 ## Conclusion
 
 This project demonstrates how Python-based data cleaning, statistical analysis, and visualization can help identify groundwater quality patterns across Tamil Nadu.
